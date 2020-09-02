@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sociedade e Sustentabilidade - Nos passa ótimas orientações e ensinamentos refente a nossa sociedade e sustentabilidade contemplando sua importância.
+Gestão de Projetos - Orientações referente ao mundo de gerenciamento de projetos, excelentes metodologias e frameworks para o nosso desenvolvimento.
+Gestão Estratégica de Pessoas - Ensinamentos referente a gestão de pessoas, passando ótimas técnicas do modo de ver o próximo e conviver com profissionais, ótimas matéria para desenvolvimento profissional e pessoal também.
+Engenharia de Software - Aprendemos conhecimentos científicos e técnicos que envolvem os projetos tecnológicos, entendendo as ferramentas e interagindo com o cliente.
+Sistemas Integrados de Gestão - Essa materia nos passa o conhecimento referente a sistemas de gestão que integra todos os componentes dos negócios da organização em um único sistema coerente para alcançar um objetivo.
+Análise Exploratória de Dados - Um estudo de análises de dados que emprega uma variedade de técnicas (principalmente gráficas) para estatística, variáveis e outras funções importantes.
+Ambiente de Desenvolvimento e Operação - Essa materia trata de um modelo que combina filosofias culturais, práticas e ferramentas que aumentam a capacidade de uma empresa distribuir seus serviços em alta velocidade.
